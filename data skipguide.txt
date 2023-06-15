@@ -40,14 +40,14 @@
 
 },
   "my_data":[
-    {"desc1":"description1 ser"},
-    {"desc2":"description2 ser"},
-    {"desc3":"description3 ser"},
-    {"desc4":"description4 ser"},
-    {"desc5":"description5 ser"},
-    {"desc6":"description5 ser"},
-    {"desc7":"description5 ser"},
-    {"descd":"description d ser"}
+    {"desc1":"The year 2036 holds great promises for humanity as technology continues to advance at an unprecedented pace. One of the most fascinating glimpses into this future is Barvikha 2036, "},
+    {"desc2":"visionary city that showcases the possibilities of tomorrow. Situated on the outskirts of Moscow, Russia, Barvikha 2036 offers a captivating blend of cutting-edge technologies"},
+    {"desc3":"sustainable practices, and an enhanced quality of life. In this essay, we will delve into the various aspects of Barvikha 2036 and explore how it embodies the future we can aspire to."},
+    {"desc4":"Barvikha 2036 places a strong emphasis on sustainable infrastructure and eco-friendly practices"},
+    {"desc5":"The city is designed to be highly energy-efficient, with buildings constructed using advanced materials that enhance insulation and reduce energy consumption"},
+    {"desc6":"Renewable energy sources, such as solar panels and wind turbines, are integrated throughout the city to provide clean and reliable power"},
+    {"desc7":"Additionally, Barvikha 2036 implements smart grid technology, allowing for efficient energy distribution and management."},
+    {"descd":"Transportation in Barvikha 2036 is revolutionized by autonomous vehicles and advanced mobility solutions"}
   ]
 
 }
